@@ -1,0 +1,5 @@
+I took a stock market dataset from Kaggle that had daily prices for many big companies. First, I cleaned the data — removed duplicates, fixed missing values,
+and made sure all the prices were in the right format. Then I used Power BI to analyze the data. 
+I focused on the ‘Close’ price of each company’s stock and created visuals to compare them.
+The chart shows which companies had the highest total closing prices over time,
+so we can quickly see which stocks performed the best during that period.
